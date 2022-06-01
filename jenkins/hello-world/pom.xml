@@ -85,7 +85,7 @@
 
         <structs.version>1.7</structs.version>
         <workflow-step-api.version>2.12</workflow-step-api.version>
-        <workflow-cps.version>2.39</workflow-cps.version>
+        <workflow-cps.version>2.65</workflow-cps.version>
         <workflow-job.version>2.11.2</workflow-job.version>
         <workflow-basic-steps.version>2.6</workflow-basic-steps.version>
         <workflow-durable-task-step.version>2.13</workflow-durable-task-step.version>
